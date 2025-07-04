@@ -81,8 +81,8 @@ Download the Dataset and import it in colab before running through the colab. Re
 
 ## 👥 Team Members
 
-- Satyam Mittal
-- Progya Promita Biswas
+- Satyam Mittal 
+- Progya Promita Biswas https://github.com/Melony26
 - Ekant Aman
 - Diya Badiya
 
