@@ -84,7 +84,7 @@ Download the Dataset and import it in colab before running through the colab. Re
 - Satyam Mittal  https://github.com/Satyam-Mittal2527
 - Progya Promita Biswas  https://github.com/Melony26
 - Ekant Aman  https://github.com/EKANT8870
-- Diya Badiya  https://github.com/D511200
+- Diya Baidya  https://github.com/D511200
 
 ## Working with Model
 
